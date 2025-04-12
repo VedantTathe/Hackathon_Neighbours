@@ -1,7 +1,7 @@
 # 🚀 Neighbour-Helping-App  
 
-[![Website](https://img.shields.io/badge/Live%20Demo-Visit-blue?style=for-the-badge&logo=googlechrome)](http://unityhub.great-site.net/)  
-[![Docker Image](https://img.shields.io/badge/Docker-Available-blue?style=for-the-badge&logo=docker)](https://hub.docker.com/r/sanskar0609/selenium-unityhub)  
+[![Website](https://img.shields.io/badge/Live%20Demo-Visit-blue?style=for-the-badge&logo=googlechrome)](http://CommUnity.great-site.net/)  
+[![Docker Image](https://img.shields.io/badge/Docker-Available-blue?style=for-the-badge&logo=docker)](https://hub.docker.com/r/sanskar0609/selenium-CommUnity)  
 [![License](https://img.shields.io/github/license/sanskar0609/neighbour-helping-app?style=for-the-badge)](#license)  
 
 Neighbour-Helping-App is a **community-driven web application** designed to assist neighbors with daily tasks, emergencies, and local services.  
@@ -9,14 +9,14 @@ Neighbour-Helping-App is a **community-driven web application** designed to assi
 ---
 
 ## 🌐 Hosted Link  
-🔗 **Live Demo:** [Neighbour-Helping-App](http://unityhub.great-site.net/)  
+🔗 **Live Demo:** [Neighbour-Helping-App](http://CommUnity.great-site.net/)  
 
 ---
 
 ## 📦 Docker Image  
 You can pull the Docker image using:  
 ```bash
-docker pull sanskar0609/selenium-unityhub
+docker pull sanskar0609/selenium-CommUnity
 ```
  Features    
 ✅ Connect with neighbors for help & support.  

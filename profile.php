@@ -46,7 +46,7 @@ if ($user) {
             
           "
         >
-        UnityHub
+        CommUnity
         </h1></a>
       
         <center>

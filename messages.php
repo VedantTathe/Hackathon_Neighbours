@@ -134,7 +134,7 @@ if ($result->num_rows > 0) {
     // Display the chat header and form
     echo "
     <nav>
-        <div><h1>UnityHub</h1></div>
+        <div><h1>CommUnity</h1></div>
         <div class='link-header'>
             <a href='post-request.php'>Post Request</a>
             <a href='offer-help.php'>Offer Help</a>
